@@ -113,25 +113,6 @@ Each TP aims to produce one or more of:
 
 ---
 
-## Contributing
-Contributions are welcome. Suggested ways to contribute:
-- Fix bugs or tidy code structure.  
-- Add new visual experiments or TPs (include a PDF description and the Python implementation).  
-- Improve scripts to accept command-line parameters or to export results to `outputs/`.  
-- Add unit tests where appropriate.
-
-When contributing, please:
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feat/my-visual`)  
-3. Commit changes and open a pull request
-
----
-
-## License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
 ## Author
 **Victor Piana**  
 Engineering student — *Monde Virtuel (Virtual Worlds)* specialization

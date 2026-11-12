@@ -4,10 +4,11 @@
 [![NumPy](https://img.shields.io/badge/NumPy-Linear%20Algebra-013243.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3D%20Visualization-11557c.svg)](https://matplotlib.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Theory-orange.svg)](https://networkx.org/)
-[![Specialization](https://img.shields.io/badge/Specialization-Monde%20Virtuel%20%2F%20Computer%20Graphics-purple.svg)](#)
-[![Degree](https://img.shields.io/badge/Curriculum-Computer%20Science%20Engineering-darkgreen.svg)](#)
+[![Institution](https://img.shields.io/badge/School-UTBM%20Engineering-red.svg)](https://www.utbm.fr/)
+[![Specialization](https://img.shields.io/badge/Specialization-Monde%20Virtuel%20%2F%203D%20Graphics-purple.svg)](#)
+[![Date](https://img.shields.io/badge/Date-Spring%202025-blue.svg)](#)
 
-> **Visual Mathematics & Computational Geometry Portfolio** developed during my engineering curriculum in the **Monde Virtuel (Virtual Worlds / Computer Graphics)** specialization.
+> **Visual Mathematics & Computational Geometry Lab Assignments** developed in **Spring 2025** (Course MV55) as part of the Computer Science Engineering curriculum at **UTBM** (*Monde Virtuel / Virtual Worlds & 3D Computer Graphics* specialization).
 
 ---
 
@@ -146,7 +147,7 @@ python TP3_Quaternions_et_Rotations_Espace.py
 ## 👨‍💻 Author
 
 **Victor Piana**
-* Engineering Graduate in Computer Science — *Monde Virtuel (Virtual Worlds & Computer Graphics)* specialization
-* Currently: Master of Science in Data Science & AI for Business — **École Polytechnique & HEC Paris**
+* Computer Science Engineering Student — *Monde Virtuel (Virtual Worlds & 3D Computer Graphics)* specialization
+* **UTBM** (Université de Technologie de Belfort-Montbéliard) • Spring 2025 (Course MV55)
 * LinkedIn: [linkedin.com/in/victor-piana-107230238](https://www.linkedin.com/in/victor-piana-107230238/)
 * GitHub: [@victorpiana](https://github.com/victorpiana)
